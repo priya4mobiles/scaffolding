@@ -5,7 +5,7 @@ function Copyrights() {
 		<span>
 			{'Copyright © '}
 			{new Date().getFullYear()}
-			Futurenoob.io {'.'} All Rights Reserved
+			xxxx {'.'} All Rights Reserved
 		</span>
 	);
 }
